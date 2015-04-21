@@ -1,0 +1,3 @@
+cluster.name: logstash
+node.data: false
+node.client: true
